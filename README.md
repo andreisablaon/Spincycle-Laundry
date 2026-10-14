@@ -1,8 +1,8 @@
 # SpinCycle — Laundry Order Drop-off & Status Tracker
 
 **Course Project:** Midterm Task Performance — Business System Build  
-**Developer:** [Your Name]  
-**Section:** [Your Section]  
+**Developer:** Andrei Carl Sablaon 
+**Section:** BSCpE4-101  
 **Date:** October 15, 2026  
 
 ---
